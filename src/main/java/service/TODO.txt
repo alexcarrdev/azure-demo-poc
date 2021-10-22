@@ -1,0 +1,34 @@
+
+
+
+
+1. quick tour of azure portal
+2. show healthcheck endpoint
+3. Show post to RTD / read from RAD
+4. Show reading API secret + change API secret
+5. Show metrics
+6. Show updated API secret
+7. Show CI/CD
+8. Show deployment slots
+9. Walk through alerting system
+10. Walk through elasticity
+11. Questions
+
+
+-- ADD ALERT
+- show metrics in demo
+- application settings- set variable to return in response body
+- dev ops
+ - list azure services used
+ - elasticity
+
+
+
+1. Logging not always showing up
+2. Build client for testing
+3. Azure key storage
+
+
+// user: azureuser
+// pass: pa55w4rd
+
