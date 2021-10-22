@@ -20,7 +20,7 @@ public class MessagingController {
 
     private static final Logger LOGGER= LoggerFactory.getLogger(MessagingController.class);
 
-    @GetMapping("/exampleGet")
+    @GetMapping("/apiexample/exampleGet")
     public ServiceResponse exampleGet() {
 
         LOGGER.info("Received GET request to /exampleGet");
