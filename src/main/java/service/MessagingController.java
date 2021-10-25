@@ -23,7 +23,7 @@ public class MessagingController {
     @GetMapping("/apiexample/exampleGet")
     public ServiceResponse exampleGet() {
 
-        LOGGER.info("Received GET request to /exampleGet");
+        LOGGER.info("Received GET request to /exampleGet. This is the new commit!");
 
         ServiceResponse response = new ServiceResponse();
 
