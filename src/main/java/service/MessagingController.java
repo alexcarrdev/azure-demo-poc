@@ -29,7 +29,7 @@ public class MessagingController {
 
         response.setUuid(1L);
         response.setAdditionalStatusCode("200");
-        response.setAdditionalStatusMsg("Successful hit to the /exampleGet endpoint.");
+        response.setAdditionalStatusMsg("Successful hit to the /exampleGet endpoint. This is from the new commit.");
 
         return response;
     }
